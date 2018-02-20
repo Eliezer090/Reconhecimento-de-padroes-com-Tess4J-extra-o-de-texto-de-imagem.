@@ -1,6 +1,6 @@
 # Reconhecimento-de-padroes-com-Tess4J-extracao-de-texto-de-imagem.
 
--- LINK DO PROJETO https://drive.google.com/open?id=1DP_3hbvTO_exqupVyntY-YC_Ayyhezb5
+-- LINK DO PROJETO https://drive.google.com/open?id=1GSwdipF95WU-B85SF15mZJIcyXXrEJak
 -Nao consegui upar aqui por ter mais que 25 mb upei no drive qualquer duvida me chamar no facebook: https://www.facebook.com/eliezer.schwartz.94 estou a disposição para qualquer duvida ou sugestao de melhoria, vlww.
 
 -Esse projeto foi feito com o intuito de extrair o conteudo de uma imagem e salvar em um formato de texto com auxilio da biblioteca Tess4J.
