@@ -1,0 +1,1 @@
+# Reconhecimento-de-padroes-com-Tess4J-extra-o-de-texto-de-imagem.
